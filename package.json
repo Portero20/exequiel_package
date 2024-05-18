@@ -1,0 +1,31 @@
+{
+  "name": "fancy-exequiel-card",
+  "version": "1.0.0",
+  "description": "This is my business card using npx.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Portero20/exequiel_package.git"
+  },
+  "scripts": {
+
+    "card": "node ./js/card.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+
+    "porterocard": "./js/card.mjs"
+  },
+  "keywords": [
+    "card",
+    "exequiel",
+    "developer",
+    "frontend"
+  ],
+  "author": "portero_dev",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}

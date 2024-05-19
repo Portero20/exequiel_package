@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## ¿Qué es npx-porterocard? 😲
+## ¿Qué es npx-porterocard? 💳
 
 `npx-porterocard` es una paquete que te permite mostrar mi tarjeta de presentación básica en la terminal utilizando las librerías `chalk` y `boxen`. Al ejecutar el comando `npx portercard`, se despliega mi información de contacto y redes sociales. La tarjeta irá mejorando poco a poco con el tiempo.
 

@@ -29,13 +29,13 @@ Para mostrar tu tarjeta de presentación básica, sigue estos pasos:
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tu-usuario/npx-porterocard.git
+    git clone git@github.com:Portero20/exequiel_package.git
     ```
 
 2. Accede a la carpeta del proyecto:
 
     ```sh
-    cd npx-porterocard
+    cd exequiel_package
     ```
 
 3. Instala las dependencias:

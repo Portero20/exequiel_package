@@ -2,27 +2,27 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## ¿Qué es npx-porterocard?
+## ¿Qué es npx-porterocard? 😲
 
 `npx-porterocard` es una paquete que te permite mostrar mi tarjeta de presentación básica en la terminal utilizando las librerías `chalk` y `boxen`. Al ejecutar el comando `npx portercard`, se despliega mi información de contacto y redes sociales. La tarjeta irá mejorando poco a poco con el tiempo.
 
-## Instalación
+## Instalación 📥
 
 No necesitas instalar nada globalmente. Solo tenemos que asegurarnos de tener Node.js instalado en nuestro sistema y ejecutar el comando directamente con npx.
 
-### Requisitos Previos
+### Requisitos Previos 🔧
 
 - [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/)
 
-## Referencias
+## Referencias 📚
 
 - [Build a business card CLI tool (whitep4nth3r)](https://whitep4nth3r.com/blog/build-a-business-card-cli-tool/)
 - [Write a simple business card (Jack Boberg)](https://studioelsa.se/blog/open-source-oss-npx-business-card/)
 - [Creating my personal business card (Rossano D'Angelo)](https://dev.to/rossanodan/creating-my-personal-business-card-41of)
 - [NPX Card Generator (Aaishika S Bhattacharya)](https://devpost.com/software/npx-card-generator)
 
-## Uso
+## Uso 📄
 
 Para mostrar tu tarjeta de presentación básica, sigue estos pasos:
 
@@ -50,6 +50,6 @@ Para mostrar tu tarjeta de presentación básica, sigue estos pasos:
     npx portercard
     ```
 
-## Demo
+## Demo 🎬
 
 [![demo.gif](https://i.postimg.cc/hhWKJxsk/descarga.gif)](https://postimg.cc/XB8RmrTL)

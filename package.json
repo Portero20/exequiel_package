@@ -1,6 +1,6 @@
 {
   "name": "fancy-exequiel-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my business card using npx.",
   "main": "index.js",
   "repository": {
